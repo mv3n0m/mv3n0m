@@ -7,7 +7,9 @@
 </div>
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    An avid constant learner, who likes to explore everything tech ranging from simple web technologies till quantum computing. Currently, submerged myself into web3 and blockchain space and still growing positively.
+    An avid constant learner, who likes to explore everything tech ranging from simple web technologies till quantum computing. Currently, submerged myself into web3/blockchain space and still growing positively.
+</p>
+<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     As a Fullstack Engineer, I have been involved in developing and deploying Web applications and services using <b>Python, Flask, Django, Javascript, Typescript, Node.js, Express.js, React.js, Next.js, MongoDB, PostgreSQL and MySQL</b>. While exploring the Web3 space, I came across <b>Solidity and Rust</b> to build decentralized applications (DApps) and smart contracts on <b>Ethereum, Polygon, Solana and NEAR</b> blockchains.
 </p>
 <br>
@@ -32,6 +34,8 @@
   <a href="https://rust-lang.com/" target="_blank" rel="noreferrer">
       <img  alt="Rust" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg"/>
   </a>
+
+<br>
 
   <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer">
       <img  alt="Flask" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"/>
@@ -58,6 +62,7 @@
       <img  alt="Leptos" height="50px" style="padding-right:10px;" src="https://leptos.dev/images/header_logo.svg" />
   </a>
 
+<br>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -71,6 +76,8 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img  alt="TailwindCSS" height="50px" style="padding-right:10px;" src="https://images.crunchbase.com/c_lpad,h_170,w_170,f_auto,q_auto:eco,dpr_1/y9jbquchakdius6cs8ws"/>
   </a>
+
+<br>
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
@@ -94,6 +101,8 @@
       <img  alt="NEAR" height="50px" style="padding-right:10px;" src="https://seeklogo.com/images/N/near-icon-logo-10785AE366-seeklogo.com.png"/>
   </a>
 
+<br>
+
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img  alt="Bash" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"/>
   </a>
@@ -116,8 +125,6 @@
 
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 <div class="stats" align="center">
 
