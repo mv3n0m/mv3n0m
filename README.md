@@ -129,10 +129,10 @@
 
 <div class="stats" align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vidali-Espisato&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mv3n0m&count_private=true&theme=algolia&border_radius=20)
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidali-Espisato&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mv3n0m&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidali-Espisato&layout=compact&show_icons=true&theme=algolia&border_radius=20&&hide=scss,html,css,shell,dockerfile)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mv3n0m&layout=compact&show_icons=true&theme=algolia&border_radius=20&&hide=scss,html,css,shell,dockerfile)
 </div>
 
