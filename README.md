@@ -72,7 +72,7 @@
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img  alt="TailwindCSS" height="50px" style="padding-right:10px;" src="https://images.crunchbase.com/c_lpad,h_170,w_170,f_auto,q_auto:eco,dpr_1/y9jbquchakdius6cs8ws"/>
+      <img  alt="TailwindCSS" height="50px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/771/978/png-transparent-tailwind-css-css-framework-customizable-low-level-tailwind-logo-3d-icon.png"/>
   </a>
 
 <br>
