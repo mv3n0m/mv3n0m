@@ -38,6 +38,30 @@
 
 <br>
 
+  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
+      <img  alt="Ethereum" height="50px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ethereum_logo_icon_147293.png"/>
+  </a>
+  <a href="https://base.org/" target="_blank" rel="noreferrer">
+      <img  alt="Base" height="50px" style="padding-right:10px;" src="https://imgs.search.brave.com/DLsSihMnvQhG2z_hTCl7hujsaIwjZdyqY2miPT3rKW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmI4Y2I5NTZl/OTBhMTdmZjc5ZDU4/YzNjYmU2YmJkZGM5/NzMzNTM3ZTc2NDJk/M2U1NmUzMjgxNzk5/NDUzYmFkOC93d3cu/YmFzZS5vcmcv"/>
+  </a>
+  <a href="https://arbitrum.io/" target="_blank" rel="noreferrer">
+      <img  alt="Arbitrum" height="50px" style="padding-right:10px;" src="https://images.seeklogo.com/logo-png/49/1/arbitrum-logo-png_seeklogo-497766.png"/>
+  </a>
+  <a href="https://polygon.technology/" target="_blank" rel="noreferrer">
+      <img  alt="Polygon" height="50px" style="padding-right:10px;" src="https://altcoinsbox.com/wp-content/uploads/2023/03/matic-logo-300x300.webp"/>
+  </a>
+  <a href="https://solana.com/" target="_blank" rel="noreferrer">
+      <img  alt="Solana" height="50px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/10/Solana-Crypto-Logo-PNG-File.png"/>
+  </a>
+  <a href="https://near.org/" target="_blank" rel="noreferrer">
+      <img  alt="NEAR" height="50px" style="padding-right:10px;" src="https://pages.near.org/wp-content/uploads/2023/11/NEAR_token.png"/>
+  </a>
+  <a href="https://starkware.co/starknet/" target="_blank" rel="noreferrer">
+      <img  alt="Starknet" height="50px" style="padding-right:10px;" src="https://starkware.co/wp-content/uploads/2023/02/SN-Symbol-Gradient.png"/>
+  </a>
+
+<br>
+
   <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer">
       <img  alt="Flask" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"/>
   </a>
@@ -89,20 +113,8 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
       <img  alt="PostgreSQL" height="50px" style="padding-right:10px;" src="https://www.postgresql.org/media/img/about/press/elephant.png"/>
   </a>
-  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="Ethereum" height="50px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ethereum_logo_icon_147293.png"/>
-  </a>
-  <a href="https://polygon.technology/" target="_blank" rel="noreferrer">
-      <img  alt="Polygon" height="50px" style="padding-right:10px;" src="https://altcoinsbox.com/wp-content/uploads/2023/03/matic-logo-300x300.webp"/>
-  </a>
-  <a href="https://solana.com/" target="_blank" rel="noreferrer">
-      <img  alt="Solana" height="50px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/10/Solana-Crypto-Logo-PNG-File.png"/>
-  </a>
-  <a href="https://near.org/" target="_blank" rel="noreferrer">
-      <img  alt="NEAR" height="50px" style="padding-right:10px;" src="https://pages.near.org/wp-content/uploads/2023/11/NEAR_token.png"/>
-  </a>
-  <a href="https://starkware.co/starknet/" target="_blank" rel="noreferrer">
-      <img  alt="Starknet" height="50px" style="padding-right:10px;" src="https://starkware.co/wp-content/uploads/2023/02/SN-Symbol-Gradient.png"/>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img  alt="Firebase/Firestore" height="50px" style="padding-right:10px;" src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png"/>
   </a>
 
 <br>
