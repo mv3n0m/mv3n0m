@@ -42,10 +42,10 @@
       <img  alt="Ethereum" height="50px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ethereum_logo_icon_147293.png"/>
   </a>
   <a href="https://base.org/" target="_blank" rel="noreferrer">
-      <img  alt="Base" height="50px" style="padding-right:10px;" src="https://imgs.search.brave.com/DLsSihMnvQhG2z_hTCl7hujsaIwjZdyqY2miPT3rKW0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmI4Y2I5NTZl/OTBhMTdmZjc5ZDU4/YzNjYmU2YmJkZGM5/NzMzNTM3ZTc2NDJk/M2U1NmUzMjgxNzk5/NDUzYmFkOC93d3cu/YmFzZS5vcmcv"/>
+      <img  alt="Base" height="50px" style="padding-right:10px;" src="https://web3auth.io/docs/connect-blockchain/evm"/>
   </a>
   <a href="https://arbitrum.io/" target="_blank" rel="noreferrer">
-      <img  alt="Arbitrum" height="50px" style="padding-right:10px;" src="https://images.seeklogo.com/logo-png/49/1/arbitrum-logo-png_seeklogo-497766.png"/>
+      <img  alt="Arbitrum" height="50px" style="padding-right:10px;" src="https://res.coinpaper.com/coinpaper/arb_fba92b25bc.png"/>
   </a>
   <a href="https://polygon.technology/" target="_blank" rel="noreferrer">
       <img  alt="Polygon" height="50px" style="padding-right:10px;" src="https://altcoinsbox.com/wp-content/uploads/2023/03/matic-logo-300x300.webp"/>
