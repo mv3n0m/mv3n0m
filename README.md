@@ -17,6 +17,12 @@
 <br>
 
 <div align="center">
+  <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer">
+      <img  alt="Foundry" width="400px" style="padding-right:10px;" src="https://getfoundry.sh/og-image.png"/>
+  </a>
+    
+<br>
+
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a>
