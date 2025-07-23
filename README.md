@@ -42,7 +42,7 @@
       <img  alt="Ethereum" height="50px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ethereum_logo_icon_147293.png"/>
   </a>
   <a href="https://base.org/" target="_blank" rel="noreferrer">
-      <img  alt="Base" height="50px" style="padding-right:10px;" src="https://web3auth.io/docs/connect-blockchain/evm"/>
+      <img  alt="Base" height="50px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/108554348?s=512"/>
   </a>
   <a href="https://arbitrum.io/" target="_blank" rel="noreferrer">
       <img  alt="Arbitrum" height="50px" style="padding-right:10px;" src="https://res.coinpaper.com/coinpaper/arb_fba92b25bc.png"/>
