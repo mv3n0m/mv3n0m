@@ -120,9 +120,9 @@
       <img  alt="PostgreSQL" height="50px" style="padding-right:10px;" src="https://www.postgresql.org/media/img/about/press/elephant.png"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="Firebase/Firestore" height="50px" style="padding-right:10px;" src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png"/>
+      <img  alt="Firebase/Firestore" height="50px" style="padding-right:10px;" src="https://firebase.google.com//static/images/brand-guidelines/product-logo.png"/>
   </a>
-
+<!-- https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png -->
 <br>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
