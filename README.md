@@ -113,16 +113,16 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img  alt="Firebase/Firestore" height="50px" style="padding-right:10px;" src="https://firebase.google.com//static/images/brand-guidelines/product-logo.png"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
       <img  alt="PostgreSQL" height="50px" style="padding-right:10px;" src="https://www.postgresql.org/media/img/about/press/elephant.png"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="Firebase/Firestore" height="50px" style="padding-right:10px;" src="https://firebase.google.com//static/images/brand-guidelines/product-logo.png"/>
-  </a>
-<!-- https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png -->
+  
 <br>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
