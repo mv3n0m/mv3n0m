@@ -62,11 +62,11 @@
 
 <br>
 
-  <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer">
-      <img  alt="Flask" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"/>
-  </a>
   <a href="https://djangoproject.com/" target="_blank" rel="noreferrer">
       <img  alt="Django" height="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4L3P3Za3Oj5qJzUgcxBu6agYfUyZqeEG_DkxKMRgFXOXOFvu3Cf77gGO5AmsHhImQAPk"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer">
+      <img  alt="Flask" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg"/>
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
