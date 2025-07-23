@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer">
-      <img  alt="Foundry" width="300px" height="120px" style="padding-right:10px;" src="https://getfoundry.sh/og-image.png"/>
+      <img  alt="Foundry" width="300px" height="130px" style="padding-right:10px;" src="https://getfoundry.sh/og-image.png"/>
   </a>
     
 <br>
