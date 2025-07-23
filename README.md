@@ -54,7 +54,7 @@
       <img  alt="Solana" height="50px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/10/Solana-Crypto-Logo-PNG-File.png"/>
   </a>
   <a href="https://near.org/" target="_blank" rel="noreferrer">
-      <img  alt="NEAR" height="50px" style="padding-right:10px;" src="https://pages.near.org/wp-content/uploads/2023/11/NEAR_token.png"/>
+      <img  alt="NEAR" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/14446/14446201.png"/>
   </a>
   <a href="https://starkware.co/starknet/" target="_blank" rel="noreferrer">
       <img  alt="Starknet" height="50px" style="padding-right:10px;" src="https://starkware.co/wp-content/uploads/2023/02/SN-Symbol-Gradient.png"/>
