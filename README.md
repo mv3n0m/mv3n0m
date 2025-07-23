@@ -32,6 +32,9 @@
   <a href="https://rust-lang.com/" target="_blank" rel="noreferrer">
       <img  alt="Rust" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg"/>
   </a>
+  <a href="https://www.cairo-lang.org/" target="_blank" rel="noreferrer">
+      <img  alt="Cairo" height="50px" style="padding-right:10px;" src="https://www.cairo-lang.org/wp-content/uploads/2024/04/cropped-cairo-favicon-192x192.png"/>
+  </a>
 
 <br>
 
@@ -54,7 +57,7 @@
       <img  alt="Hardhat" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/menezesphill/application_utils/main/hardhaticon.png" />
   </a>
   <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer">
-      <img  alt="Foundry" height="50px" style="padding-right:10px;" src="https://www.paradigm.xyz/static/Foundry_Ink_2-1024x516.jpg" />
+      <img  alt="Foundry" height="50px" style="padding-right:10px;" src="https://getfoundry.sh/foundry-logo.png" />
   </a>
   <a href="https://leptos.dev/" target="_blank" rel="noreferrer">
       <img  alt="Leptos" height="50px" style="padding-right:10px;" src="https://leptos.dev/images/header_logo.svg" />
@@ -96,7 +99,10 @@
       <img  alt="Solana" height="50px" style="padding-right:10px;" src="https://www.pngall.com/wp-content/uploads/10/Solana-Crypto-Logo-PNG-File.png"/>
   </a>
   <a href="https://near.org/" target="_blank" rel="noreferrer">
-      <img  alt="NEAR" height="50px" style="padding-right:10px;" src="https://seeklogo.com/images/N/near-icon-logo-10785AE366-seeklogo.com.png"/>
+      <img  alt="NEAR" height="50px" style="padding-right:10px;" src="https://pages.near.org/wp-content/uploads/2023/11/NEAR_token.png"/>
+  </a>
+  <a href="https://starkware.co/starknet/" target="_blank" rel="noreferrer">
+      <img  alt="Starknet" height="50px" style="padding-right:10px;" src="https://starkware.co/wp-content/uploads/2023/02/SN-Symbol-Gradient.png"/>
   </a>
 
 <br>
